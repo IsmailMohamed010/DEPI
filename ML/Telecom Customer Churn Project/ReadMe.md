@@ -15,7 +15,6 @@ We used the **Telco Customer Churn Dataset** from Kaggle, which contains custome
 ├── notebooks/           # Jupyter Notebooks for analysis and modeling
 ├── models/              # Saved machine learning models
 ├── src/                 # Python scripts for preprocessing and evaluation
-├── requirements.txt     # Python package requirements
 └── README.md            # Project documentation (this file)
 ```
 
