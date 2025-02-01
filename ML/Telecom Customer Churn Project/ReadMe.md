@@ -1,6 +1,6 @@
 # Telco Customer Churn Prediction
 
-This project aims to build a machine learning model to predict customer churn for a telecom company. By analyzing customer data, service subscriptions, and payment details, we can identify factors contributing to churn and provide actionable insights for retention strategies.
+This project aims to build a machine-learning model to predict customer churn for a telecom company. By analyzing customer data, service subscriptions, and payment details, we can identify factors contributing to churn and provide actionable insights for retention strategies.
 
 ## Dataset
 We used the **Telco Customer Churn Dataset** from Kaggle, which contains customer information, service details, contract types, payment details, and churn status.
@@ -22,8 +22,8 @@ We used the **Telco Customer Churn Dataset** from Kaggle, which contains custome
 ## Installation
 1. **Clone this repository:**
    ```bash
-   git clone <repository-link>
-   cd <repository-folder>
+   git clone <https://github.com/IsmailMohamed010/DEPI>
+   cd <ML/Telecom Customer Churn Project/>
    ```
 2. **Install the required Python packages:**
    ```bash
@@ -78,7 +78,4 @@ plt.show()
 
 ## Contributing
 We welcome contributions to this project. Feel free to submit issues or create pull requests.
-
-## License
-This project is licensed under the MIT License.
 
