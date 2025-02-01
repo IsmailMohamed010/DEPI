@@ -19,17 +19,6 @@ We used the **Telco Customer Churn Dataset** from Kaggle, which contains custome
 └── README.md            # Project documentation (this file)
 ```
 
-## Installation
-1. **Clone this repository:**
-   ```bash
-   git clone <https://github.com/IsmailMohamed010/DEPI>
-   cd <ML/Telecom Customer Churn Project/>
-   ```
-2. **Install the required Python packages:**
-   ```bash
-   pip install -r requirements.txt
-   ```
-
 ## Usage
 1. **Download the dataset:** Place the downloaded CSV file in the `data/` directory.
 2. **Run Jupyter Notebooks:** Launch the notebooks for preprocessing, feature engineering, and model training:
